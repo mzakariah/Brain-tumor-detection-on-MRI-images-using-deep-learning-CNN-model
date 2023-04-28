@@ -1,3 +1,8 @@
+# BRATS dataset:
+Brats 2020 dataset is used in this study for brain tumor segmentation
+# Brats 2020 dataset link:
+https://drive.google.com/file/d/1V4kjIuJEw2mDMhuj5SOMv3bnbJcbVnS7/view?usp=share_link
+
 # Brain-tumor-detection-on-MRI-images-using-deep-learning-CNN-model
 This study presents a deep learning model for brain tumor segmentation using a Convolutional Neural Network (CNN) on the Barts dataset
 
